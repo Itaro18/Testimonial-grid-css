@@ -123,8 +123,12 @@ blockquote
 .pfp
 {
     border-radius: 50%;
-    width: 13%;
+    width: 15%;
     
+}
+.pfp-bg
+{
+    border: 0.2rem solid hsl(263, 49%, 70%);
 }
 
 @media (min-width:768px)
